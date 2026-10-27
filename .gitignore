@@ -1,0 +1,17 @@
+# Python Virtual Environment
+venv/
+__pycache__/
+
+# Heavy AI Models & Installer Packages
+local_models/
+offline_packages/
+windows_packages/
+
+# Generated Outputs & Temp files
+Output/
+Evaluation/
+nouse/
+*.pdf
+
+# OS generated files
+.DS_Store
